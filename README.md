@@ -1,6 +1,6 @@
 # Elevator
 
-### A Simple Elevator App I created at FDM.
+### A Simple Elevator App I created at FDM
 
 This app is run from the Elevator/src/main/java/Main.java file ideally through Eclipse.
 
